@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\seigt\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\seigt\\.nuget\\packages"
+    ]
+  }
+}
